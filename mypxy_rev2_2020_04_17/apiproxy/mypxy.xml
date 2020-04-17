@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="mypxy">
+    <Basepaths>/mypxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1583494794302</CreatedAt>
+    <CreatedBy>sumantadas1@refinitiv.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>mypxy</DisplayName>
+    <LastModifiedAt>1583497576683</LastModifiedAt>
+    <LastModifiedBy>sumantadas1@refinitiv.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:98b94cfb3a7a883dea6d921452a9797a269b023c9ba9f68f62c77a6a11eafbbf9a55f6da47f5704e40e59a21b1de0601bc6ce0e33ab4d5067c5172f97ef796a9</ManifestVersion>
+    <Policies>
+        <Policy>remove-header-authorization</Policy>
+        <Policy>verify-oauth-v2-access-token</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

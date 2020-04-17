@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="remove-header-authorization" version="SHA-512:f89820dcc7147902486bd124ff45c7bb31dcd87e0e41a33d3b161b8b561dc35673d93ceba847c00c4fb0d7de657be90bc2952acec57d60425e4f11ee8dd59d4e"/>
+        <VersionInfo resourceName="verify-oauth-v2-access-token" version="SHA-512:be186ad133f93aafcac3d31bcb907dc849e4d8d10dadc63132cec9986bb306f937d7e9786a40be6ba66e04f4239189c3197d9df3c0ccbb30d79b4bd70231894e"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:37e4ca770f1b706077076f8cbd63185b3b316264d3e5c7075f0812a08839095f477b2e97b031597cf23e2519331b8ced325e76e7a5022a52d2b50de39bd26778"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:3feb817cfb07e8a8e6b54203c87145fc1247cf00dab1bef4b5556da3c878af63cbd960a60e2678f5db5bfe6537cd2cb521e3b8743f163a53feaa6672e983f493"/>
+    </TargetEndpoints>
+</Manifest>
